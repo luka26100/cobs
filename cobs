@@ -1,0 +1,7 @@
+#include "string.h"
+
+void main(void){
+
+  string name = "dasdas";
+
+}
